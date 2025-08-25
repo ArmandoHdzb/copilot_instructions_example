@@ -1,4 +1,5 @@
-When suggesting improvements, always provide the exact code change (diff or code block), not just a comment.
+When suggesting improvements, always provide the exact code change as a code block or diff, not just a comment.  
+For example, show the code to be replaced and the new code, so it can be copied and applied directly.
 
 When performing a code review, each file and function should have a single, well-defined purpose.
 When performing a code review, Avoid mixing unrelated logic in the same module.
