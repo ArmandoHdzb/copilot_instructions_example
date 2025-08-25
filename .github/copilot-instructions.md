@@ -1,4 +1,4 @@
-When performing a code review, make sure to suggest the code change to be apply where appropriate.
+When suggesting improvements, always provide the exact code change (diff or code block), not just a comment.
 
 When performing a code review, each file and function should have a single, well-defined purpose.
 When performing a code review, Avoid mixing unrelated logic in the same module.
