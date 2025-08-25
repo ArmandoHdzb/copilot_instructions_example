@@ -12,3 +12,10 @@ const d = (a, b) => {
   console.log('dividing');
   return a / b;
 };
+
+// const obj = {
+//   name: 'example',
+//   age: 30,
+// };
+
+const get_name = (obj) => obj.name;
