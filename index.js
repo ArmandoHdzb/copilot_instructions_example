@@ -10,6 +10,7 @@ const suma = (a, b) => a + b;
 
 const d = (a, b) => {
   console.log('dividing');
+  // console.log(a, b);
   return a / b;
 };
 
